@@ -1,4 +1,4 @@
-layout: stacked
+layout: sidebar
 style: dark
 
 plugins:
@@ -33,7 +33,7 @@ social_media:
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
-  instagram: vishesh71
+  instagram: vishesh79
   # keybase: your_username
   linkedin: visheshgupta9777
   # mastodon: your_username
