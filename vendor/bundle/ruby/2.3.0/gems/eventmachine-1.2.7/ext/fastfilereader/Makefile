@@ -31,8 +31,13 @@ rubyhdrdir = $(includedir)/$(RUBY_VERSION_NAME)
 vendorarchdir = $(vendorlibdir)/$(sitearch)
 vendorlibdir = $(vendordir)/$(ruby_version)
 vendordir = $(rubylibprefix)/vendor_ruby
+<<<<<<< HEAD
 sitearchdir = $(DESTDIR)./.gem.20190903-29441-19a643h
 sitelibdir = $(DESTDIR)./.gem.20190903-29441-19a643h
+=======
+sitearchdir = $(DESTDIR)./.gem.20190718-57893-ji7pjt
+sitelibdir = $(DESTDIR)./.gem.20190718-57893-ji7pjt
+>>>>>>> parent of 340fd92... Merge branch 'master' of https://github.com/Vishesh7797/personal-website
 sitedir = $(DESTDIR)/Library/Ruby/Site
 rubyarchdir = $(rubylibdir)/$(arch)
 rubylibdir = $(rubylibprefix)/$(ruby_version)

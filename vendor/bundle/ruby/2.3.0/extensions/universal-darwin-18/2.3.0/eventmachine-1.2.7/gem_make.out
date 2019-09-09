@@ -1,20 +1,40 @@
+<<<<<<< HEAD
 current directory: /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
 /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190903-29441-8phblt.rb extconf.rb
+=======
+current directory: /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190718-57893-1dmz3r3.rb extconf.rb
+>>>>>>> parent of 340fd92... Merge branch 'master' of https://github.com/Vishesh7797/personal-website
 creating Makefile
 
 To see why this extension failed to compile, please check the mkmf.log which can be found here:
 
+<<<<<<< HEAD
   /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/extensions/universal-darwin-18/2.3.0/eventmachine-1.2.7/mkmf.log
 
 current directory: /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
 make "DESTDIR=" clean
 
 current directory: /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+=======
+  /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/extensions/universal-darwin-18/2.3.0/eventmachine-1.2.7/mkmf.log
+
+current directory: /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+>>>>>>> parent of 340fd92... Merge branch 'master' of https://github.com/Vishesh7797/personal-website
 make "DESTDIR="
 compiling mapper.cpp
 compiling rubymain.cpp
 linking shared-object fastfilereaderext.bundle
 
+<<<<<<< HEAD
 current directory: /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
 make "DESTDIR=" install
 /usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20190903-29441-19a643h
+=======
+current directory: /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20190718-57893-ji7pjt
+>>>>>>> parent of 340fd92... Merge branch 'master' of https://github.com/Vishesh7797/personal-website

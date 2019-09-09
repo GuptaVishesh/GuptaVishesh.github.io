@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 current directory: /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/commonmarker-0.17.13/ext/commonmarker
 /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190903-29441-ko8j0t.rb extconf.rb
 creating Makefile
@@ -6,6 +7,16 @@ current directory: /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bund
 make "DESTDIR=" clean
 
 current directory: /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/commonmarker-0.17.13/ext/commonmarker
+=======
+current directory: /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/commonmarker-0.17.13/ext/commonmarker
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190718-57893-ok4cqh.rb extconf.rb
+creating Makefile
+
+current directory: /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/commonmarker-0.17.13/ext/commonmarker
+make "DESTDIR=" clean
+
+current directory: /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/commonmarker-0.17.13/ext/commonmarker
+>>>>>>> parent of 340fd92... Merge branch 'master' of https://github.com/Vishesh7797/personal-website
 make "DESTDIR="
 compiling arena.c
 compiling autolink.c
@@ -52,6 +63,12 @@ compiling utf8.c
 compiling xml.c
 linking shared-object commonmarker/commonmarker.bundle
 
+<<<<<<< HEAD
 current directory: /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/commonmarker-0.17.13/ext/commonmarker
 make "DESTDIR=" install
 /usr/bin/install -c -m 0755 commonmarker.bundle ./.gem.20190903-29441-fdqks2/commonmarker
+=======
+current directory: /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/commonmarker-0.17.13/ext/commonmarker
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 commonmarker.bundle ./.gem.20190718-57893-q5zexv/commonmarker
+>>>>>>> parent of 340fd92... Merge branch 'master' of https://github.com/Vishesh7797/personal-website

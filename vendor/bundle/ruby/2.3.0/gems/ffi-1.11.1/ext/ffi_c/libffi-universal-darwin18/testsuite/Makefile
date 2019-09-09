@@ -13,7 +13,11 @@
 # PARTICULAR PURPOSE.
 
 
+<<<<<<< HEAD
 VPATH = /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/ffi-1.11.1/ext/ffi_c/libffi/testsuite
+=======
+VPATH = /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/ffi-1.11.1/ext/ffi_c/libffi/testsuite
+>>>>>>> parent of 340fd92... Merge branch 'master' of https://github.com/Vishesh7797/personal-website
 am__is_gnu_make = { \
   if test -z '$(MAKELEVEL)'; then \
     false; \
@@ -85,9 +89,15 @@ POST_INSTALL = :
 NORMAL_UNINSTALL = :
 PRE_UNINSTALL = :
 POST_UNINSTALL = :
+<<<<<<< HEAD
 build_triplet = x86_64-apple-darwin18.7.0
 host_triplet = x86_64-apple-darwin18.7.0
 target_triplet = x86_64-apple-darwin18.7.0
+=======
+build_triplet = x86_64-apple-darwin18.6.0
+host_triplet = x86_64-apple-darwin18.6.0
+target_triplet = x86_64-apple-darwin18.6.0
+>>>>>>> parent of 340fd92... Merge branch 'master' of https://github.com/Vishesh7797/personal-website
 subdir = testsuite
 ACLOCAL_M4 = $(top_srcdir)/aclocal.m4
 am__aclocal_m4_deps = $(top_srcdir)/m4/asmcfi.m4 \
@@ -137,16 +147,26 @@ EXPECT = expect
 RUNTEST = runtest
 am__DIST_COMMON = $(srcdir)/Makefile.in
 DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)
+<<<<<<< HEAD
 ACLOCAL = ${SHELL} /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/ffi-1.11.1/ext/ffi_c/libffi/missing aclocal-1.15
+=======
+ACLOCAL = ${SHELL} /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/ffi-1.11.1/ext/ffi_c/libffi/missing aclocal-1.15
+>>>>>>> parent of 340fd92... Merge branch 'master' of https://github.com/Vishesh7797/personal-website
 ALLOCA = 
 AMTAR = $${TAR-tar}
 AM_DEFAULT_VERBOSITY = 1
 AM_LTLDFLAGS = 
 AM_RUNTESTFLAGS = 
 AR = ar
+<<<<<<< HEAD
 AUTOCONF = ${SHELL} /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/ffi-1.11.1/ext/ffi_c/libffi/missing autoconf
 AUTOHEADER = ${SHELL} /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/ffi-1.11.1/ext/ffi_c/libffi/missing autoheader
 AUTOMAKE = ${SHELL} /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/ffi-1.11.1/ext/ffi_c/libffi/missing automake-1.15
+=======
+AUTOCONF = ${SHELL} /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/ffi-1.11.1/ext/ffi_c/libffi/missing autoconf
+AUTOHEADER = ${SHELL} /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/ffi-1.11.1/ext/ffi_c/libffi/missing autoheader
+AUTOMAKE = ${SHELL} /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/ffi-1.11.1/ext/ffi_c/libffi/missing automake-1.15
+>>>>>>> parent of 340fd92... Merge branch 'master' of https://github.com/Vishesh7797/personal-website
 AWK = awk
 CC = xcrun clang
 CCAS = xcrun clang
@@ -191,9 +211,15 @@ LN_S = ln -s
 LTLIBOBJS = 
 LT_SYS_LIBRARY_PATH = 
 MAINT = #
+<<<<<<< HEAD
 MAKEINFO = ${SHELL} /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/ffi-1.11.1/ext/ffi_c/libffi/missing makeinfo
 MANIFEST_TOOL = :
 MKDIR_P = /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/ffi-1.11.1/ext/ffi_c/libffi/install-sh -c -d
+=======
+MAKEINFO = ${SHELL} /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/ffi-1.11.1/ext/ffi_c/libffi/missing makeinfo
+MANIFEST_TOOL = :
+MKDIR_P = /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/ffi-1.11.1/ext/ffi_c/libffi/install-sh -c -d
+>>>>>>> parent of 340fd92... Merge branch 'master' of https://github.com/Vishesh7797/personal-website
 NM = /usr/bin/nm -B
 NMEDIT = nmedit
 OBJDUMP = objdump
@@ -212,7 +238,11 @@ PATH_SEPARATOR = :
 PRTDIAG = 
 RANLIB = ranlib
 SECTION_LDFLAGS = 
+<<<<<<< HEAD
 SED = /usr/local/bin/gsed
+=======
+SED = /usr/bin/sed
+>>>>>>> parent of 340fd92... Merge branch 'master' of https://github.com/Vishesh7797/personal-website
 SET_MAKE = 
 SHELL = /bin/sh
 STRIP = strip
@@ -220,10 +250,17 @@ TARGET = X86_64
 TARGETDIR = x86
 TARGET_OBJ =  src/x86/ffi64.lo src/x86/unix64.lo src/x86/ffiw64.lo src/x86/win64.lo
 VERSION = 3.99999
+<<<<<<< HEAD
 abs_builddir = /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/ffi-1.11.1/ext/ffi_c/libffi-universal-darwin18/testsuite
 abs_srcdir = /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/ffi-1.11.1/ext/ffi_c/libffi/testsuite
 abs_top_builddir = /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/ffi-1.11.1/ext/ffi_c/libffi-universal-darwin18
 abs_top_srcdir = /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/ffi-1.11.1/ext/ffi_c/libffi
+=======
+abs_builddir = /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/ffi-1.11.1/ext/ffi_c/libffi-universal-darwin18/testsuite
+abs_srcdir = /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/ffi-1.11.1/ext/ffi_c/libffi/testsuite
+abs_top_builddir = /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/ffi-1.11.1/ext/ffi_c/libffi-universal-darwin18
+abs_top_srcdir = /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/ffi-1.11.1/ext/ffi_c/libffi
+>>>>>>> parent of 340fd92... Merge branch 'master' of https://github.com/Vishesh7797/personal-website
 ac_ct_AR = ar
 ac_ct_CC = xcrun clang
 ac_ct_CXX = g++
@@ -233,12 +270,21 @@ am__leading_dot = .
 am__quote = 
 am__tar = $${TAR-tar} chof - "$$tardir"
 am__untar = $${TAR-tar} xf -
+<<<<<<< HEAD
 ax_enable_builddir_sed = /usr/local/bin/gsed
 bindir = ${exec_prefix}/bin
 build = x86_64-apple-darwin18.7.0
 build_alias = 
 build_cpu = x86_64
 build_os = darwin18.7.0
+=======
+ax_enable_builddir_sed = sed
+bindir = ${exec_prefix}/bin
+build = x86_64-apple-darwin18.6.0
+build_alias = 
+build_cpu = x86_64
+build_os = darwin18.6.0
+>>>>>>> parent of 340fd92... Merge branch 'master' of https://github.com/Vishesh7797/personal-website
 build_vendor = apple
 builddir = .
 datadir = ${datarootdir}
@@ -246,15 +292,26 @@ datarootdir = ${prefix}/share
 docdir = ${datarootdir}/doc/${PACKAGE_TARNAME}
 dvidir = ${docdir}
 exec_prefix = ${prefix}
+<<<<<<< HEAD
 host = x86_64-apple-darwin18.7.0
 host_alias = 
 host_cpu = x86_64
 host_os = darwin18.7.0
+=======
+host = x86_64-apple-darwin18.6.0
+host_alias = 
+host_cpu = x86_64
+host_os = darwin18.6.0
+>>>>>>> parent of 340fd92... Merge branch 'master' of https://github.com/Vishesh7797/personal-website
 host_vendor = apple
 htmldir = ${docdir}
 includedir = ${prefix}/include
 infodir = ${datarootdir}/info
+<<<<<<< HEAD
 install_sh = ${SHELL} /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/ffi-1.11.1/ext/ffi_c/libffi/install-sh
+=======
+install_sh = ${SHELL} /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/ffi-1.11.1/ext/ffi_c/libffi/install-sh
+>>>>>>> parent of 340fd92... Merge branch 'master' of https://github.com/Vishesh7797/personal-website
 libdir = ${exec_prefix}/lib
 libexecdir = ${exec_prefix}/libexec
 localedir = ${datarootdir}/locale
@@ -269,6 +326,7 @@ psdir = ${docdir}
 runstatedir = ${localstatedir}/run
 sbindir = ${exec_prefix}/sbin
 sharedstatedir = ${prefix}/com
+<<<<<<< HEAD
 srcdir = /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/ffi-1.11.1/ext/ffi_c/libffi/testsuite
 sys_symbol_underscore = yes
 sysconfdir = ${prefix}/etc
@@ -276,12 +334,25 @@ target = x86_64-apple-darwin18.7.0
 target_alias = 
 target_cpu = x86_64
 target_os = darwin18.7.0
+=======
+srcdir = /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/ffi-1.11.1/ext/ffi_c/libffi/testsuite
+sys_symbol_underscore = yes
+sysconfdir = ${prefix}/etc
+target = x86_64-apple-darwin18.6.0
+target_alias = 
+target_cpu = x86_64
+target_os = darwin18.6.0
+>>>>>>> parent of 340fd92... Merge branch 'master' of https://github.com/Vishesh7797/personal-website
 target_vendor = apple
 toolexecdir = ${exec_prefix}/lib/gcc-lib/$(target_alias)
 toolexeclibdir = ${exec_prefix}/lib
 top_build_prefix = ../
 top_builddir = ..
+<<<<<<< HEAD
 top_srcdir = /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/ffi-1.11.1/ext/ffi_c/libffi
+=======
+top_srcdir = /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/ffi-1.11.1/ext/ffi_c/libffi
+>>>>>>> parent of 340fd92... Merge branch 'master' of https://github.com/Vishesh7797/personal-website
 AUTOMAKE_OPTIONS = foreign dejagnu
 EXTRA_DEJAGNU_SITE_CONFIG = ../local.exp
 CLEANFILES = *.exe core* *.log *.sum

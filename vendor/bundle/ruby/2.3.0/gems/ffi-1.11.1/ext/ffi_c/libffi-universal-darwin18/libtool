@@ -66,6 +66,7 @@ PATH_SEPARATOR=":"
 
 # The host system.
 host_alias=
+<<<<<<< HEAD
 host=x86_64-apple-darwin18.7.0
 host_os=darwin18.7.0
 
@@ -76,6 +77,18 @@ build_os=darwin18.7.0
 
 # A sed program that does not truncate output.
 SED="/usr/local/bin/gsed"
+=======
+host=x86_64-apple-darwin18.6.0
+host_os=darwin18.6.0
+
+# The build system.
+build_alias=
+build=x86_64-apple-darwin18.6.0
+build_os=darwin18.6.0
+
+# A sed program that does not truncate output.
+SED="/usr/bin/sed"
+>>>>>>> parent of 340fd92... Merge branch 'master' of https://github.com/Vishesh7797/personal-website
 
 # Sed that helps us avoid accidentally triggering echo(1) options like -n.
 Xsed="$SED -e 1s/^X//"

@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 current directory: /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.3/ext/nokogiri
 /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190903-29441-5da7g5.rb extconf.rb
+=======
+current directory: /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.3/ext/nokogiri
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190718-57893-11u93vw.rb extconf.rb
+>>>>>>> parent of 340fd92... Merge branch 'master' of https://github.com/Vishesh7797/personal-website
 checking if the C compiler accepts  -I /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/libxml2... yes
 checking if the C compiler accepts -Wno-error=unused-command-line-argument-hard-error-in-future... no
 Building nokogiri using packaged libraries.
@@ -34,6 +39,7 @@ Note, however, that nokogiri is not fully compatible with arbitrary
 versions of libxml2 provided by OS/package vendors.
 ************************************************************************
 Extracting libxml2-2.9.9.tar.gz into tmp/x86_64-apple-darwin18/ports/libxml2/2.9.9... OK
+<<<<<<< HEAD
 Running git apply with /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.3/patches/libxml2/0001-Revert-Do-not-URI-escape-in-server-side-includes.patch... OK
 Running git apply with /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.3/patches/libxml2/0002-Remove-script-macro-support.patch... OK
 Running git apply with /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.3/patches/libxml2/0003-Update-entities-to-remove-handling-of-ssi.patch... OK
@@ -41,6 +47,15 @@ Running 'configure' for libxml2 2.9.9... OK
 Running 'compile' for libxml2 2.9.9... OK
 Running 'install' for libxml2 2.9.9... OK
 Activating libxml2 2.9.9 (from /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.3/ports/x86_64-apple-darwin18/libxml2/2.9.9)...
+=======
+Running git apply with /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.3/patches/libxml2/0001-Revert-Do-not-URI-escape-in-server-side-includes.patch... OK
+Running git apply with /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.3/patches/libxml2/0002-Remove-script-macro-support.patch... OK
+Running git apply with /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.3/patches/libxml2/0003-Update-entities-to-remove-handling-of-ssi.patch... OK
+Running 'configure' for libxml2 2.9.9... OK
+Running 'compile' for libxml2 2.9.9... OK
+Running 'install' for libxml2 2.9.9... OK
+Activating libxml2 2.9.9 (from /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.3/ports/x86_64-apple-darwin18/libxml2/2.9.9)...
+>>>>>>> parent of 340fd92... Merge branch 'master' of https://github.com/Vishesh7797/personal-website
 ************************************************************************
 IMPORTANT NOTICE:
 
@@ -63,11 +78,19 @@ If you are using Bundler, tell it to use the option:
     bundle install
 ************************************************************************
 Extracting libxslt-1.1.33.tar.gz into tmp/x86_64-apple-darwin18/ports/libxslt/1.1.33... OK
+<<<<<<< HEAD
 Running git apply with /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.3/patches/libxslt/0001-Fix-security-framework-bypass.patch... OK
 Running 'configure' for libxslt 1.1.33... OK
 Running 'compile' for libxslt 1.1.33... OK
 Running 'install' for libxslt 1.1.33... OK
 Activating libxslt 1.1.33 (from /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.3/ports/x86_64-apple-darwin18/libxslt/1.1.33)...
+=======
+Running git apply with /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.3/patches/libxslt/0001-Fix-security-framework-bypass.patch... OK
+Running 'configure' for libxslt 1.1.33... OK
+Running 'compile' for libxslt 1.1.33... OK
+Running 'install' for libxslt 1.1.33... OK
+Activating libxslt 1.1.33 (from /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.3/ports/x86_64-apple-darwin18/libxslt/1.1.33)...
+>>>>>>> parent of 340fd92... Merge branch 'master' of https://github.com/Vishesh7797/personal-website
 checking for main() in -llzma... yes
 checking for xmlParseDoc() in libxml/parser.h... yes
 checking for xsltParseStylesheetDoc() in libxslt/xslt.h... yes
@@ -83,12 +106,21 @@ creating Makefile
 
 To see why this extension failed to compile, please check the mkmf.log which can be found here:
 
+<<<<<<< HEAD
   /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/extensions/universal-darwin-18/2.3.0/nokogiri-1.10.3/mkmf.log
 
 current directory: /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.3/ext/nokogiri
 make "DESTDIR=" clean
 
 current directory: /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.3/ext/nokogiri
+=======
+  /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/extensions/universal-darwin-18/2.3.0/nokogiri-1.10.3/mkmf.log
+
+current directory: /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.3/ext/nokogiri
+make "DESTDIR=" clean
+
+current directory: /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.3/ext/nokogiri
+>>>>>>> parent of 340fd92... Merge branch 'master' of https://github.com/Vishesh7797/personal-website
 make "DESTDIR="
 compiling html_document.c
 compiling html_element_description.c
@@ -130,9 +162,18 @@ compiling xml_xpath_context.c
 compiling xslt_stylesheet.c
 linking shared-object nokogiri/nokogiri.bundle
 Cleaning files only used during build.
+<<<<<<< HEAD
 rm -rf /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.3/ext/nokogiri/tmp/x86_64-apple-darwin18/ports
 rm -rf /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.3/ports
 
 current directory: /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.3/ext/nokogiri
 make "DESTDIR=" install
 /usr/bin/install -c -m 0755 nokogiri.bundle ./.gem.20190903-29441-12i3ifv/nokogiri
+=======
+rm -rf /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.3/ext/nokogiri/tmp/x86_64-apple-darwin18/ports
+rm -rf /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.3/ports
+
+current directory: /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/nokogiri-1.10.3/ext/nokogiri
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 nokogiri.bundle ./.gem.20190718-57893-j5mrvj/nokogiri
+>>>>>>> parent of 340fd92... Merge branch 'master' of https://github.com/Vishesh7797/personal-website

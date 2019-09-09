@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 current directory: /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
 /System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190903-29441-jyrqrv.rb extconf.rb
 creating Makefile
@@ -6,11 +7,27 @@ current directory: /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bund
 make "DESTDIR=" clean
 
 current directory: /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+=======
+current directory: /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190718-57893-c61z6v.rb extconf.rb
+creating Makefile
+
+current directory: /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+>>>>>>> parent of 340fd92... Merge branch 'master' of https://github.com/Vishesh7797/personal-website
 make "DESTDIR="
 compiling ruby_http_parser.c
 compiling ryah_http_parser.c
 linking shared-object ruby_http_parser.bundle
 
+<<<<<<< HEAD
 current directory: /Users/vikasgupta/Desktop/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
 make "DESTDIR=" install
 /usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20190903-29441-ov9ns0
+=======
+current directory: /Users/vikasgupta/Documents/GitHub/personal-website/vendor/bundle/ruby/2.3.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20190718-57893-1gkifml
+>>>>>>> parent of 340fd92... Merge branch 'master' of https://github.com/Vishesh7797/personal-website
